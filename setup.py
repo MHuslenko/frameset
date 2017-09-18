@@ -14,7 +14,7 @@ def get_requirements_tests():
 
 
 setup(
-    name='django-storages',
+    name='django-frameset',
     version=frameset.__version__,
     packages=['frameset'],
     author='Nikita Guslenko',
